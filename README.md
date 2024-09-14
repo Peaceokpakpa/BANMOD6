@@ -1,5 +1,5 @@
 Fashion MNIST Image Classification with CNN in R
-Project Description
+Project Description:
 This project demonstrates the implementation of a Convolutional Neural Network (CNN) using Keras and TensorFlow in R to classify images from the Fashion MNIST dataset. The dataset consists of 70,000 grayscale images of 10 different fashion categories, with 60,000 images for training and 10,000 for testing.
 
 Tasks:
@@ -19,6 +19,7 @@ install.packages(c("keras", "tensorflow", "ggplot2", "dplyr"))
 library(keras)
 library(tensorflow)
 install_keras()  # Installs TensorFlow backend
+
 
 Run the Script:
 
